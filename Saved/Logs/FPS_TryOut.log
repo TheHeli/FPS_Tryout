@@ -4893,3 +4893,167 @@ Continue: Skip saving this asset only.
 [2021.08.29-17.03.29:651][  0]LogContentValidation: Display: Validating WidgetBlueprint /Game/Custom_Blueprints/Stamina_Bar.Stamina_Bar
 [2021.08.29-17.03.29:651][  0]LogContentValidation: Display: Validating Texture2D /Game/Custom_Blueprints/Stamina_UI/Stamina_Empty_50.Stamina_Empty_50
 [2021.08.29-17.03.29:651][  0]LogContentValidation: Display: Validating Blueprint /Game/Custom_Blueprints/Item_Key.Item_Key
+[2021.08.29-17.10.39:500][357]LogSlate: Window 'Message' being destroyed
+[2021.08.29-17.10.39:503][357]Message dialog closed, result: Cancel, title: Message, text: You are about to leave a session containing changes. Do you want to persist the changes?
+[2021.08.29-17.10.47:571][117]LogSlate: Window 'Message' being destroyed
+[2021.08.29-17.10.47:574][117]Message dialog closed, result: No, title: Message, text: You are about to leave a session containing changes. Do you want to persist the changes?
+[2021.08.29-17.10.47:583][117]LogConcert: Display: Disconnected from Concert session 'Bageri' (Id: C33FFF004B05AEA36638B2B2E3FC91A4, Owner: Andreja).
+[2021.08.29-17.10.47:583][117]LogConcertTakeRecorder: Display: Multi-user Take Recorder Session Shutdown: Bageri
+[2021.08.29-17.10.48:348][117]LogDirectoryWatcher: A directory notification for 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout/Intermediate/Concert/MultiUser/3CF572A146A25A25D94BF39FE17D5FBA/C33FFF004B05AEA36638B2B2E3FC91A4/Sandbox/Engine/' was aborted.
+[2021.08.29-17.10.48:348][117]LogDirectoryWatcher: A directory notification for 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout/Intermediate/Concert/MultiUser/3CF572A146A25A25D94BF39FE17D5FBA/C33FFF004B05AEA36638B2B2E3FC91A4/Sandbox/FPS_Tryout/' was aborted.
+[2021.08.29-17.10.48:348][117]LogDirectoryWatcher: A directory notification for 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout/Intermediate/Concert/MultiUser/3CF572A146A25A25D94BF39FE17D5FBA/C33FFF004B05AEA36638B2B2E3FC91A4/Sandbox/Paper2D/' was aborted.
+[2021.08.29-17.10.48:348][117]LogDirectoryWatcher: A directory notification for 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout/Intermediate/Concert/MultiUser/3CF572A146A25A25D94BF39FE17D5FBA/C33FFF004B05AEA36638B2B2E3FC91A4/Sandbox/DataprepEditor/' was aborted.
+[2021.08.29-17.10.48:348][117]LogDirectoryWatcher: A directory notification for 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout/Intermediate/Concert/MultiUser/3CF572A146A25A25D94BF39FE17D5FBA/C33FFF004B05AEA36638B2B2E3FC91A4/Sandbox/DatasmithContent/' was aborted.
+[2021.08.29-17.10.48:348][117]LogDirectoryWatcher: A directory notification for 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout/Intermediate/Concert/MultiUser/3CF572A146A25A25D94BF39FE17D5FBA/C33FFF004B05AEA36638B2B2E3FC91A4/Sandbox/StaticMeshEditorExtension/' was aborted.
+[2021.08.29-17.10.48:348][117]LogDirectoryWatcher: A directory notification for 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout/Intermediate/Concert/MultiUser/3CF572A146A25A25D94BF39FE17D5FBA/C33FFF004B05AEA36638B2B2E3FC91A4/Sandbox/Niagara/' was aborted.
+[2021.08.29-17.10.48:348][117]LogDirectoryWatcher: A directory notification for 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout/Intermediate/Concert/MultiUser/3CF572A146A25A25D94BF39FE17D5FBA/C33FFF004B05AEA36638B2B2E3FC91A4/Sandbox/AnimationSharing/' was aborted.
+[2021.08.29-17.10.48:348][117]LogDirectoryWatcher: A directory notification for 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout/Intermediate/Concert/MultiUser/3CF572A146A25A25D94BF39FE17D5FBA/C33FFF004B05AEA36638B2B2E3FC91A4/Sandbox/GLTFImporter/' was aborted.
+[2021.08.29-17.10.48:348][117]LogDirectoryWatcher: A directory notification for 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout/Intermediate/Concert/MultiUser/3CF572A146A25A25D94BF39FE17D5FBA/C33FFF004B05AEA36638B2B2E3FC91A4/Sandbox/GeometryMode/' was aborted.
+[2021.08.29-17.10.48:348][117]LogDirectoryWatcher: A directory notification for 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout/Intermediate/Concert/MultiUser/3CF572A146A25A25D94BF39FE17D5FBA/C33FFF004B05AEA36638B2B2E3FC91A4/Sandbox/MagicLeap/' was aborted.
+[2021.08.29-17.10.48:348][117]LogDirectoryWatcher: A directory notification for 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout/Intermediate/Concert/MultiUser/3CF572A146A25A25D94BF39FE17D5FBA/C33FFF004B05AEA36638B2B2E3FC91A4/Sandbox/MeshEditor/' was aborted.
+[2021.08.29-17.10.48:348][117]LogDirectoryWatcher: A directory notification for 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout/Intermediate/Concert/MultiUser/3CF572A146A25A25D94BF39FE17D5FBA/C33FFF004B05AEA36638B2B2E3FC91A4/Sandbox/SpeedTreeImporter/' was aborted.
+[2021.08.29-17.10.48:348][117]LogDirectoryWatcher: A directory notification for 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout/Intermediate/Concert/MultiUser/3CF572A146A25A25D94BF39FE17D5FBA/C33FFF004B05AEA36638B2B2E3FC91A4/Sandbox/MagicLeapPassableWorld/' was aborted.
+[2021.08.29-17.10.48:348][117]LogDirectoryWatcher: A directory notification for 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout/Intermediate/Concert/MultiUser/3CF572A146A25A25D94BF39FE17D5FBA/C33FFF004B05AEA36638B2B2E3FC91A4/Sandbox/MediaCompositing/' was aborted.
+[2021.08.29-17.10.48:348][117]LogDirectoryWatcher: A directory notification for 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout/Intermediate/Concert/MultiUser/3CF572A146A25A25D94BF39FE17D5FBA/C33FFF004B05AEA36638B2B2E3FC91A4/Sandbox/ChaosClothEditor/' was aborted.
+[2021.08.29-17.10.48:348][117]LogDirectoryWatcher: A directory notification for 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout/Intermediate/Concert/MultiUser/3CF572A146A25A25D94BF39FE17D5FBA/C33FFF004B05AEA36638B2B2E3FC91A4/Sandbox/ChaosNiagara/' was aborted.
+[2021.08.29-17.10.48:348][117]LogDirectoryWatcher: A directory notification for 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout/Intermediate/Concert/MultiUser/3CF572A146A25A25D94BF39FE17D5FBA/C33FFF004B05AEA36638B2B2E3FC91A4/Sandbox/ChaosSolverPlugin/' was aborted.
+[2021.08.29-17.10.48:349][117]LogDirectoryWatcher: A directory notification for 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout/Intermediate/Concert/MultiUser/3CF572A146A25A25D94BF39FE17D5FBA/C33FFF004B05AEA36638B2B2E3FC91A4/Sandbox/GeometryCollectionPlugin/' was aborted.
+[2021.08.29-17.10.48:349][117]LogDirectoryWatcher: A directory notification for 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout/Intermediate/Concert/MultiUser/3CF572A146A25A25D94BF39FE17D5FBA/C33FFF004B05AEA36638B2B2E3FC91A4/Sandbox/GeometryProcessing/' was aborted.
+[2021.08.29-17.10.48:349][117]LogDirectoryWatcher: A directory notification for 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout/Intermediate/Concert/MultiUser/3CF572A146A25A25D94BF39FE17D5FBA/C33FFF004B05AEA36638B2B2E3FC91A4/Sandbox/MotoSynth/' was aborted.
+[2021.08.29-17.10.48:349][117]LogDirectoryWatcher: A directory notification for 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout/Intermediate/Concert/MultiUser/3CF572A146A25A25D94BF39FE17D5FBA/C33FFF004B05AEA36638B2B2E3FC91A4/Sandbox/PythonScriptPlugin/' was aborted.
+[2021.08.29-17.10.48:349][117]LogDirectoryWatcher: A directory notification for 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout/Intermediate/Concert/MultiUser/3CF572A146A25A25D94BF39FE17D5FBA/C33FFF004B05AEA36638B2B2E3FC91A4/Sandbox/AudioSynesthesia/' was aborted.
+[2021.08.29-17.10.48:349][117]LogDirectoryWatcher: A directory notification for 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout/Intermediate/Concert/MultiUser/3CF572A146A25A25D94BF39FE17D5FBA/C33FFF004B05AEA36638B2B2E3FC91A4/Sandbox/HDRIBackdrop/' was aborted.
+[2021.08.29-17.10.48:349][117]LogDirectoryWatcher: A directory notification for 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout/Intermediate/Concert/MultiUser/3CF572A146A25A25D94BF39FE17D5FBA/C33FFF004B05AEA36638B2B2E3FC91A4/Sandbox/OpenXRHandTracking/' was aborted.
+[2021.08.29-17.10.48:349][117]LogDirectoryWatcher: A directory notification for 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout/Intermediate/Concert/MultiUser/3CF572A146A25A25D94BF39FE17D5FBA/C33FFF004B05AEA36638B2B2E3FC91A4/Sandbox/OpenXREyeTracker/' was aborted.
+[2021.08.29-17.10.48:349][117]LogDirectoryWatcher: A directory notification for 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout/Intermediate/Concert/MultiUser/3CF572A146A25A25D94BF39FE17D5FBA/C33FFF004B05AEA36638B2B2E3FC91A4/Sandbox/OpenXR/' was aborted.
+[2021.08.29-17.10.48:349][117]LogDirectoryWatcher: A directory notification for 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout/Intermediate/Concert/MultiUser/3CF572A146A25A25D94BF39FE17D5FBA/C33FFF004B05AEA36638B2B2E3FC91A4/Sandbox/MultiUserTakes/' was aborted.
+[2021.08.29-17.10.48:349][117]LogDirectoryWatcher: A directory notification for 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout/Intermediate/Concert/MultiUser/3CF572A146A25A25D94BF39FE17D5FBA/C33FFF004B05AEA36638B2B2E3FC91A4/Sandbox/Takes/' was aborted.
+[2021.08.29-17.10.48:349][117]LogDirectoryWatcher: A directory notification for 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout/Intermediate/Concert/MultiUser/3CF572A146A25A25D94BF39FE17D5FBA/C33FFF004B05AEA36638B2B2E3FC91A4/Sandbox/PostSplashScreen/' was aborted.
+[2021.08.29-17.10.48:349][117]LogDirectoryWatcher: A directory notification for 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout/Intermediate/Concert/MultiUser/3CF572A146A25A25D94BF39FE17D5FBA/C33FFF004B05AEA36638B2B2E3FC91A4/Sandbox/SunPosition/' was aborted.
+[2021.08.29-17.10.48:349][117]LogDirectoryWatcher: A directory notification for 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout/Intermediate/Concert/MultiUser/3CF572A146A25A25D94BF39FE17D5FBA/C33FFF004B05AEA36638B2B2E3FC91A4/Sandbox/Synthesis/' was aborted.
+[2021.08.29-17.10.48:349][117]LogDirectoryWatcher: A directory notification for 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout/Intermediate/Concert/MultiUser/3CF572A146A25A25D94BF39FE17D5FBA/C33FFF004B05AEA36638B2B2E3FC91A4/Sandbox/DatasmithRuntime/' was aborted.
+[2021.08.29-17.10.48:349][117]LogDirectoryWatcher: A directory notification for 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout/Intermediate/Concert/MultiUser/3CF572A146A25A25D94BF39FE17D5FBA/C33FFF004B05AEA36638B2B2E3FC91A4/Sandbox/OculusVR/' was aborted.
+[2021.08.29-17.10.48:349][117]LogDirectoryWatcher: A directory notification for 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout/Intermediate/Concert/MultiUser/3CF572A146A25A25D94BF39FE17D5FBA/C33FFF004B05AEA36638B2B2E3FC91A4/Sandbox/SteamVR/' was aborted.
+[2021.08.29-17.10.48:350][117]LogDirectoryWatcher: A directory notification for 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout/Intermediate/Concert/MultiUser/3CF572A146A25A25D94BF39FE17D5FBA/C33FFF004B05AEA36638B2B2E3FC91A4/Sandbox/ConcertSyncClient/' was aborted.
+[2021.08.29-17.10.48:350][117]LogDirectoryWatcher: A directory notification for 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout/Intermediate/Concert/MultiUser/3CF572A146A25A25D94BF39FE17D5FBA/C33FFF004B05AEA36638B2B2E3FC91A4/Sandbox/Intermediate/' was aborted.
+[2021.08.29-17.10.48:357][117]LightingResults: New page: Lighting Build
+[2021.08.29-17.10.48:387][117]LogWorld: UWorld::CleanupWorld for Level_001, bSessionEnded=true, bCleanupResources=true
+[2021.08.29-17.10.48:387][117]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.29-17.10.48:388][117]MapCheck: New page: Map Check
+[2021.08.29-17.10.48:388][117]LightingResults: New page: Lighting Build
+[2021.08.29-17.10.48:404][117]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.29-17.10.48:410][117]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2021.08.29-17.10.48:414][117]LogAIModule: Creating AISystem for world Untitled
+[2021.08.29-17.10.48:415][117]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.08.29-17.10.48:436][117]LoadErrors: New page: New Map
+[2021.08.29-17.10.48:438][117]LogUObjectGlobals: Reloading 9 Package(s):
+	Asset Name: /Game/Custom_Blueprints/FPS_Controller
+	Asset Name: /Game/Custom_Blueprints/Stamina_UI/Stamina_Empty_50
+	Asset Name: /Game/Custom_Blueprints/Stamina_UI/Stamina_Full_50
+	Asset Name: /Game/Custom_Blueprints/Stamina_Bar
+	Asset Name: /Game/Custom_Blueprints/Custom_HUD
+	Asset Name: /Game/Custom_Blueprints/Item
+	Asset Name: /Game/Custom_Blueprints/Item_Key
+	Asset Name: /Game/Custom_Blueprints/Stamina_UI/Stamina_Empty
+	Asset Name: /Game/Custom_Blueprints/Stamina_UI/Stamina_Full
+[2021.08.29-17.10.48:471][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2021.08.29-17.10.48:510][117]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'FPS_Controller_C:InputActionDelegateBinding_5' in the new package '/Game/Custom_Blueprints/FPS_Controller'. Any existing references to this object will be nulled out.
+[2021.08.29-17.10.48:510][117]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'FPS_Controller_C:InputKeyDelegateBinding_4' in the new package '/Game/Custom_Blueprints/FPS_Controller'. Any existing references to this object will be nulled out.
+[2021.08.29-17.10.48:510][117]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'FPS_Controller_C:InputAxisDelegateBinding_5' in the new package '/Game/Custom_Blueprints/FPS_Controller'. Any existing references to this object will be nulled out.
+[2021.08.29-17.10.48:510][117]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'Default__FPS_Controller_C:CollisionCylinder.BodySetup_0' (transient) in the new package '/Game/Custom_Blueprints/FPS_Controller'. Any existing references to this object will be nulled out.
+[2021.08.29-17.10.48:512][117]LogSlate: Window 'FPS_Controller' being destroyed
+[2021.08.29-17.10.48:533][117]LogActorComponent: UnregisterComponent: (/Engine/Transient.DirectionalLightComponent_45) Not registered. Aborting.
+[2021.08.29-17.10.48:533][117]LogActorComponent: UnregisterComponent: (/Engine/Transient.SkyLightComponent_37) Not registered. Aborting.
+[2021.08.29-17.10.48:533][117]LogActorComponent: UnregisterComponent: (/Engine/Transient.LineBatchComponent_238) Not registered. Aborting.
+[2021.08.29-17.10.48:533][117]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.08.29-17.10.48:533][117]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2021.08.29-17.10.48:533][117]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.29-17.10.48:596][117]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.08.29-17.10.48:862][117]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2021.08.29-17.10.48:863][117]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Custom_Blueprints/FPS_Controller.FPS_Controller
+[2021.08.29-17.10.49:470][117]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2021.08.29-17.10.49:760][117]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.08.29-17.10.49:766][117]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'Item_Key_C:InputActionDelegateBinding_2' in the new package '/Game/Custom_Blueprints/Item_Key'. Any existing references to this object will be nulled out.
+[2021.08.29-17.10.49:766][117]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'Item_Key_C:ComponentDelegateBinding_2' in the new package '/Game/Custom_Blueprints/Item_Key'. Any existing references to this object will be nulled out.
+[2021.08.29-17.10.49:766][117]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'Item_Key_C:Sphere_GEN_VARIABLE.BodySetup_0' (transient) in the new package '/Game/Custom_Blueprints/Item_Key'. Any existing references to this object will be nulled out.
+[2021.08.29-17.10.49:998][117]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2021.08.29-17.10.50:229][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.08.29-17.10.50:254][117]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level/Level_001.Level_001
+[2021.08.29-17.10.50:254][117]Cmd: MAP LOAD FILE="../../../../../../Users/Andreja/Documents/Unreal Projects/FPS_Tryout/Content/Maps/Level/Level_001.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.29-17.10.50:254][117]LightingResults: New page: Lighting Build
+[2021.08.29-17.10.50:254][117]LoadErrors: New page: Loading map: Level_001.umap
+[2021.08.29-17.10.50:255][117]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.08.29-17.10.50:255][117]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.29-17.10.50:255][117]MapCheck: New page: Map Check
+[2021.08.29-17.10.50:255][117]LightingResults: New page: Lighting Build
+[2021.08.29-17.10.50:271][117]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.29-17.10.50:273][117]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.08.29-17.10.50:274][117]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_001'.
+[2021.08.29-17.10.50:297][117]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.08.29-17.10.50:297][117]LogAIModule: Creating AISystem for world Level_001
+[2021.08.29-17.10.50:315][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.08.29-17.10.50:320][117]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.29-17.10.50:320][117]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.094ms to complete.
+[2021.08.29-17.10.50:320][117]LogFileHelpers: Loading map 'Level_001' took 0.066
+[2021.08.29-17.10.50:340][117]LogConcert: Display: Shutdown Concert session 'Bageri' (Id: C33FFF004B05AEA36638B2B2E3FC91A4, Owner: Andreja).
+[2021.08.29-17.10.50:840][119]LogConcert: Display: Server DESKTOP-5B4HLM9 lost.
+[2021.08.29-17.10.50:851][120]LogConcert: Display: Server DESKTOP-5B4HLM9 discovered.
+[2021.08.29-17.10.55:342][599]LogSlate: Window 'FPS_Controller' being destroyed
+[2021.08.29-17.10.55:348][599]LogSlate: Window 'FPS_Controller' being destroyed
+[2021.08.29-17.10.55:386][599]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2021.08.29-17.10.55:386][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.29-17.10.59:047][  6]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Custom_Blueprints/FPS_Controller.FPS_Controller
+[2021.08.29-17.12.05:651][179]BlueprintLog: New page: Compile FPS_Controller
+[2021.08.29-17.12.05:698][179]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2021.08.29-17.12.06:577][229]LogSavePackage: Moving '../../../../../../Users/Andreja/Documents/Unreal Projects/FPS_Tryout/Saved/FPS_ControllerD92471A145920A44AD1FA88D20399314.tmp' to '../../../../../../Users/Andreja/Documents/Unreal Projects/FPS_Tryout/Content/Custom_Blueprints/FPS_Controller.uasset'
+[2021.08.29-17.12.06:592][229]AssetCheck: New page: Asset Save: FPS_Controller
+[2021.08.29-17.12.06:592][229]LogContentValidation: Display: Validating Blueprint /Game/Custom_Blueprints/FPS_Controller.FPS_Controller
+[2021.08.29-17.12.23:127][637]LogSlate: Window 'FPS_Controller' being destroyed
+[2021.08.29-17.12.23:132][637]LogSlate: Window 'FPS_Controller' being destroyed
+[2021.08.29-17.12.23:135][637]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2021.08.29-17.12.23:136][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.29-17.12.33:503][772]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content' is outside repository at 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout'
+[2021.08.29-17.12.33:503][772]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout'
+[2021.08.29-17.12.33:503][772]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DataprepEditor/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DataprepEditor/Content' is outside repository at 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout'
+[2021.08.29-17.12.33:503][772]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout'
+[2021.08.29-17.12.33:503][772]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/StaticMeshEditorExtension/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/StaticMeshEditorExtension/Content' is outside repository at 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout'
+[2021.08.29-17.12.33:503][772]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout'
+[2021.08.29-17.12.33:503][772]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout'
+[2021.08.29-17.12.33:503][772]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GLTFImporter/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GLTFImporter/Content' is outside repository at 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout'
+[2021.08.29-17.12.33:503][772]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout'
+[2021.08.29-17.12.33:503][772]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout'
+[2021.08.29-17.12.33:503][772]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/MeshEditor/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/MeshEditor/Content' is outside repository at 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout'
+[2021.08.29-17.12.33:503][772]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout'
+[2021.08.29-17.12.33:503][772]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout'
+[2021.08.29-17.12.33:503][772]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout'
+[2021.08.29-17.12.33:503][772]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout'
+[2021.08.29-17.12.33:503][772]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout'
+[2021.08.29-17.12.33:503][772]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout'
+[2021.08.29-17.12.33:503][772]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout'
+[2021.08.29-17.12.33:503][772]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout'
+[2021.08.29-17.12.33:503][772]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout'
+[2021.08.29-17.12.33:503][772]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout'
+[2021.08.29-17.12.33:503][772]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout'
+[2021.08.29-17.12.33:503][772]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/HDRIBackdrop/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/HDRIBackdrop/Content' is outside repository at 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout'
+[2021.08.29-17.12.33:503][772]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout'
+[2021.08.29-17.12.33:503][772]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout'
+[2021.08.29-17.12.33:503][772]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout'
+[2021.08.29-17.12.33:503][772]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/MultiUserTakes/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/MultiUserTakes/Content' is outside repository at 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout'
+[2021.08.29-17.12.33:503][772]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout'
+[2021.08.29-17.12.33:503][772]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout'
+[2021.08.29-17.12.33:503][772]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/SunPosition/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/SunPosition/Content' is outside repository at 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout'
+[2021.08.29-17.12.33:503][772]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout'
+[2021.08.29-17.12.33:503][772]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/Enterprise/DatasmithRuntime/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/Enterprise/DatasmithRuntime/Content' is outside repository at 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout'
+[2021.08.29-17.12.33:503][772]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout'
+[2021.08.29-17.12.33:503][772]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout'
+[2021.08.29-17.12.33:503][772]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content' is outside repository at 'C:/Users/Andreja/Documents/Unreal Projects/FPS_Tryout'
+[2021.08.29-17.12.33:800][772]LogSavePackage: Moving '../../../../../../Users/Andreja/Documents/Unreal Projects/FPS_Tryout/Saved/FPS_Controller7E7776ED407CC7E0E19116B8E830C1DE.tmp' to '../../../../../../Users/Andreja/Documents/Unreal Projects/FPS_Tryout/Content/Custom_Blueprints/FPS_Controller.uasset'
+[2021.08.29-17.12.41:776][772]LogSlate: Window 'Submit Files' being destroyed
+[2021.08.29-17.12.42:159][772]LogSourceControl: commit successful: [master 4ddf5c2] Test Andreja
+[2021.08.29-17.12.42:258][772]SourceControl: [master 4ddf5c2] Test Andreja
+[2021.08.29-17.12.42:258][772]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2021.08.29-17.12.42:270][772]SourceControl: Commited [master 4ddf5c2] Test Andreja.
+[2021.08.29-17.12.42:299][773]AssetCheck: New page: Asset Save: FPS_Controller
+[2021.08.29-17.12.42:299][773]LogContentValidation: Display: Validating Blueprint /Game/Custom_Blueprints/FPS_Controller.FPS_Controller
+[2021.08.29-17.12.42:327][774]LogConcert: Display: Server DESKTOP-5B4HLM9 lost.
+[2021.08.29-17.12.42:362][775]LogConcert: Display: Server DESKTOP-5B4HLM9 discovered.
