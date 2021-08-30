@@ -1,0 +1,8 @@
+
+*.ini
+Saved/Config/Windows/EditorPerProjectUserSettings.ini
+Saved/Config/Windows/Engine.ini
+*.log
+*.log
+Saved/Logs/FPS_TryOut.log
+Saved/Logs/FPS_TryOut_2.log
